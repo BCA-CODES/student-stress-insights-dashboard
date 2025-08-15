@@ -36,4 +36,4 @@ The **Student Stress Insights Dashboard** provides a detailed visualization of f
 
 ## 📬 Contact
 For collaborations or questions, feel free to connect via:
-- **LinkedIn**: ([https://www.linkedin.com/https://www.linkedin.com/in/dev-virani-a19452350/])
+- **LinkedIn**: [My LinkedIn Profile](https://www.linkedin.com/https://www.linkedin.com/in/dev-virani-a19452350/)
