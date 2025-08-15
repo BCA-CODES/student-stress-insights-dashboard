@@ -34,13 +34,6 @@ The **Student Stress Insights Dashboard** provides a detailed visualization of f
 
 ---
 
-## 🚀 Usage
-1. Open the `.pbix` file in **Power BI Desktop**.
-2. Connect to your dataset or use the provided sample data.
-3. Explore the interactive charts and filters.
-
----
-
 ## 📬 Contact
 For collaborations or questions, feel free to connect via:
-- **LinkedIn**: [Your LinkedIn Profile](https://www.linkedin.com/)
+- **LinkedIn**: [Your LinkedIn Profile]([https://www.linkedin.com/](https://www.linkedin.com/in/dev-virani-a19452350/))
