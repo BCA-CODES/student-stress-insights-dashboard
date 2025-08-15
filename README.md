@@ -30,7 +30,7 @@ The **Student Stress Insights Dashboard** provides a detailed visualization of f
 ---
 
 ## 📷 Dashboard Preview
-![Student Stress Insights Dashboard]()
+![Student Stress Insights Dashboard](<img width="1857" height="958" alt="coffee_Dashboard" src="https://github.com/BCA-CODES/student-stress-insights-dashboard/blob/main/student_stress_dashboard.png" />)
 
 ---
 
